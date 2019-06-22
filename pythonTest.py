@@ -6,6 +6,7 @@ def fact(number):
         return product
 
 
+# new line for commenting
 number2 = input("Enter number for factorial: ")
 
 if number2.isnumeric():
