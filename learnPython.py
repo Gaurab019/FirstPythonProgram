@@ -6,5 +6,9 @@ class Person:
         print(f'Hi, I am {self.name}')
 
 
-john = Person("John Smith")
-john.talk()
+class Animal:
+    def __init__(self, name):
+        self.name = name
+
+    def createsound(self):
+        print(f'Hi, I am {self.name}')

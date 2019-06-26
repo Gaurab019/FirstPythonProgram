@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d14f718-d54c-414e-aff7-ab775276c447" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learnPython.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/learnPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonTest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pythonTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learnPython.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utilites.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="17">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -48,8 +49,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pythonTest.py" />
         <option value="$PROJECT_DIR$/learnPython.py" />
+        <option value="$PROJECT_DIR$/utilites.py" />
+        <option value="$PROJECT_DIR$/pythonTest.py" />
       </list>
     </option>
   </component>
@@ -59,7 +61,9 @@
     <option name="width" value="1284" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -81,7 +85,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/learnPython.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pythonTest.py" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -114,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnPython.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,26 +193,39 @@
       <option name="project" value="LOCAL" />
       <updated>1561227456217</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Factorial of a number using recursion">
+      <created>1561228163942</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1561228163942</updated>
+    </task>
+    <task id="LOCAL-00009" summary="creation of utilites module">
+      <created>1561229572982</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1561229572982</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24281392" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.204236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.3502455" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.3502455" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4969743" weight="0.32569557" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32733223" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030257" side_tool="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030257" side_tool="true" weight="0.3502455" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -270,23 +287,31 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test push" />
     <MESSAGE value="Factorial of a number using recursion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factorial of a number using recursion" />
+    <MESSAGE value="creation of utilites module" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation of utilites module" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FactorialRecursively.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonTest.py">
+    <entry file="file://$PROJECT_DIR$/learnPython.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnPython.py">
+    <entry file="file://$PROJECT_DIR$/pythonTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
         </state>
       </provider>
     </entry>
